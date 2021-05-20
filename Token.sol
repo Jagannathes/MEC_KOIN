@@ -2,7 +2,7 @@
 pragma solidity ^0.4.2;
 
 contract MECToken {
-    string  public name = "MEC Token";
+    string  public name = "MEC-KOIN";
     string  public symbol = "MEC";
     string  public standard = "MEC_Coin v1.0";
     uint256 public totalSupply;
