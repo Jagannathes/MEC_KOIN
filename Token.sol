@@ -4,7 +4,7 @@ pragma solidity ^0.4.2;
 contract MECToken {
     string  public name = "MEC Token";
     string  public symbol = "MEC";
-    string  public standard = "MEC_Coin Token v1.0";
+    string  public standard = "MEC_Coin v1.0";
     uint256 public totalSupply;
 
     event Transfer(
