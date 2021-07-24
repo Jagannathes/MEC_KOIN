@@ -1,0 +1,29 @@
+{
+  "name": "koinbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayon-Francis/KoinBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayon-Francis/KoinBot/issues"
+  },
+  "homepage": "https://github.com/Mayon-Francis/KoinBot#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@replit/database": "^2.0.1",
+    "dotenv": "^10.0.0",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.13",
+    "telegraf": "^3.38.0",
+    "web3": "^1.3.6",
+    "web3-eth-contract": "^1.3.6"
+  }
+}
